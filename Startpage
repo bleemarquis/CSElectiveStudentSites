@@ -1,11 +1,64 @@
+Portfolio webpage backup
+
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>mini-project</title>
-    </head>
-    <body>
-<p>stuff. lots of words and stuff</p>
+ <head>
+   <link rel="stylesheet" href="mainpagestyle.css">
+ </head>
+ <body>
+<h1>
+Mr Marquis Endurance Sports
+</h1>
+<p>
+ The most challenging endurance races I've has completed are 5 half marathons and 3 triathlons.
+ <br></br>
+ I have also completed a number of 10k runs and sprint triathlons.
+ I am lucky enough to live in a place where I have excellent road/ trail running and biking options right from my home.
+ </p>
+ <br> </br>
+ <h2>
+   Running
+   </h2>
+ <h4>
+   Sonoma Half Marathon
+   </h4>
+ <p>
+   My first experiences with long distance runs was many years ago when I completed the Sonoma half Marathon with some friends from work. It was a very challenging course. Much of the course was singletrack trail and there was a lot of elevation change.There also was a hornet nest in the middle of the trail. I got stung right on the head a number of times.
+   </p>
+   <h4>
+Los Altos Hills Pathways Run 
+   </h4>
+   <p>
+     A great and challenging 10k run that is only a couple of miles from my house. They also have a kids fun run that my kids half done. I really want to win one of the trophies that you get for being one of the top finishers in each age group. They look like the signs that we have marking all the trails in Los Altos Hills.
+     </p>
+<h4>
+Monterey Half Marathon
+ </h4>
+ <p>
+ The Monterey Half Marthon is a really gorgeous race that happens each November on veteren's day weekend Sunday. It begins near the wharf in Monterey and goes through cannery row then along the ocean before turning around near the Inn at Spanish Bay. It's also a favorite course of mine because it's where I got my first sub 2 hour time. I had a great time both years making it into a weekend-long trip with my family. One time an old friend who now lives far away traveled for the race and we ran together. They have a Saturday 3k that my family did last year
+   </p>
+<h4>
+ Surfer's Path
+ </h4>
+ <p>
+ Surfer's Path is held in Santa Cruz in April. It's also a beautiful race that goes from the Wharf in Santa Cruz to Capitola Village and back. 
+   </p>
+<h4>
+Tesoro Viejo
+ </h4>  
+ <p>
+   The Tesoro Viejo half-marathon is held outside of Fresno in the early spring. It too is a very nice course to race on. The run is on wide trails through rolling grasslands. There are also views of snow-capped mountains.
+ </p>
+<!-- Coding Section (will become a separate page later)-->    
+<h1>
+Mr Marquis Scratch Coding Projects
+</h1>
+<iframe src="https://scratch.mit.edu/projects/582375839/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-    </body>
+
+
+
+</body>
 </html>
+</html>
+
